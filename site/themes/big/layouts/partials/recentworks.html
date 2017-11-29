@@ -1,6 +1,6 @@
 <div class="row section recentworks topspace">
 
-    <h2 class="section-title"><span>Latest articles...</span></h2>
+    <h2 class="section-title"><span>Services</span></h2>
 
     <div class="thumbnails recentworks row">
 
@@ -16,7 +16,7 @@
                 <span class="details">
                     {{ $len := sub (len .items) 1 }}
                     {{ range $i, $item := where .items "id" .index }}
-                        <a href="{{ .url }}">{{ .name }}</a>
+                        {{ .name }}
                         {{ if gt $len $i }} | {{ end }}
                     {{ end }}
                 </span>

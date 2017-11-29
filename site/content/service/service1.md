@@ -1,5 +1,5 @@
 +++
-title = "🍂🦃 October Thanksgiving Special! 🦃🍂"
+title = "Obesity is never benign - new study"
 +++
 
 In celebration of Thanksgiving and historic festivities, we are giving away live turkeys by post! 

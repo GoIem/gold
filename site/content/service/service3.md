@@ -1,5 +1,5 @@
 +++
-title = "Skype Coaching"
+title = "Dieting and you"
 +++
 
 Flareon (Japanese: ブースター Booster) is a Fire-type Pokémon introduced in Generation I.

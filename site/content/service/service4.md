@@ -1,5 +1,5 @@
 +++
-title = "Legacy Package"
+title = "Get fit in 99 days"
 +++
 
 Espeon (Japanese: エーフィ Eifie) is a Psychic-type Pokémon introduced in Generation II.
